@@ -29,10 +29,10 @@ You can manually test the inputs using the switch:
 | 2       |  a              |
 | 3       |  b              |
 | 4       |  c              |
-| 5       |  N/A            |
-| 6       |  N/A            |
-| 7       |  N/A            |
-| 8       |  N/A            |
+| 5       |  n/a            |
+| 6       |  n/a            |
+| 7       |  n/a            |
+| 8       |  n/a            |
 
 Set the clock to 1 Hz and observe the display. You should see the letters O, 2, E, L, H, d, and blank as you increment the counter from 0 to 6.
 
